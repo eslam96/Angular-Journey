@@ -1,4 +1,11 @@
 p{
-    margin: 4px 0;
+    margin-bottom: 5px;
+    height: 100%;
+    padding-left: 10px;
+    border-left: 4px solid #0B5ED7;
     font-size: 18px;
+}
+
+.offline{
+    color: dimgray;
 }
